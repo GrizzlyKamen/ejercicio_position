@@ -1,0 +1,22 @@
+div {
+    box-sizing: border-box;
+    height: 100px;
+    padding-top: 15px;
+    text-align: center;
+    width: 100px;
+}
+
+.primero {
+    background-color: #ADD8E6;
+    left: 20px;
+    position: relative;
+    top: 30px;
+    /*en perspectiva de la posicion original*/
+}
+
+.segundo{
+    background-color: #90EE90;
+    right: 30px;
+    position: absolute;
+    bottom: 20px;
+}
